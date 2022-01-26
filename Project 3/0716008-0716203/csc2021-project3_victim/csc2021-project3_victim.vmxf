@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Foundry>
+<VM>
+<VMId type="string">52 73 ee 80 74 23 f5 ba-04 bd bb bd 17 17 ef ce</VMId>
+<ClientMetaData>
+<clientMetaDataAttributes/>
+<HistoryEventList/></ClientMetaData>
+<vmxPathName type="string">csc2021-project3_victim.vmx</vmxPathName></VM></Foundry>
